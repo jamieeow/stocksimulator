@@ -1,0 +1,11 @@
+DATE                   01/02/2014
+STOCK                         ALI
+NUMBER_OF_SHARES             2000
+PRICE_PER_SHARE           25.2000
+GROSS_PRICE            50400.0015
+COMMISION                126.0000
+VAT                       15.1200
+SCCP_FEE                   5.0400
+PSE_FEE                    2.5200
+TOTAL_CHARGES            148.6800
+NET_AMOUNT             50548.6815

@@ -1,0 +1,12 @@
+DATE                   12/29/2016
+STOCK                          SM
+NUMBER_OF_SHARES             5000
+PRICE_PER_SHARE          650.8750
+GROSS_PRICE          3254375.0000
+COMMISION               8135.9375
+VAT                      976.3125
+SCCP_FEE                 325.4375
+PSE_FEE                  162.7188
+SALES_TAX              19526.2500
+TOTAL_CHARGES          29126.6563
+NET_AMOUNT           3225248.3438

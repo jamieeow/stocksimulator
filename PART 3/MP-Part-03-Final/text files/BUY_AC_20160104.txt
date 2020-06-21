@@ -1,0 +1,11 @@
+DATE                   01/04/2016
+STOCK                          AC
+NUMBER_OF_SHARES             2000
+PRICE_PER_SHARE          758.0000
+GROSS_PRICE          1516000.0000
+COMMISION               3790.0000
+VAT                      454.8000
+SCCP_FEE                 151.6000
+PSE_FEE                   75.8000
+TOTAL_CHARGES           4472.2000
+NET_AMOUNT           1520472.2000
